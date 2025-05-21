@@ -45,4 +45,7 @@ Feel free to open issues, submit pull requests, or create your own forks and exp
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+"ClawPy" is a trademark of NightNova. Use of the name without permission is not allowed.
+
+
 ---
