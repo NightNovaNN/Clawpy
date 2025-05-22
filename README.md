@@ -47,5 +47,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 "ClawPy", "NightNovaNN" and the logo, slogans and design marks are not covered by MIT License. Use of the name without explicit permission from NightNova  is not allowed.
 
+##Badge
+<a href="https://pepy.tech/projects/clawpy"><img src="https://static.pepy.tech/badge/clawpy" alt="PyPI Downloads"></a>
+
 
 ---
